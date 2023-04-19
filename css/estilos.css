@@ -19,4 +19,13 @@ body
 #container h1
 {
     font-size: 20px;
+    text-align: center;
+    color: red;
+}
+
+#cabecera{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
